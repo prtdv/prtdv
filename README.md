@@ -12,7 +12,7 @@ CGPA              :: 8.11
 
 Languages         :: Python • Java • C++ • JavaScript • Go • SQL
 
-Backend           :: FastAPI • Express.js • Django REST
+Backend           :: Django REST • FastAPI • Express.js
 Machine Learning  :: LightGBM • scikit-learn • Pandas • NumPy
 Database          :: PostgreSQL
 DevOps            :: Docker • GitHub Actions • Docker
