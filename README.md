@@ -9,8 +9,13 @@ prtdv@github:~$ cat education.md
 B.Tech Computer Science
 MIT-WPU
 
-prtdv@github:~$ pwd
-/learning/neetcode-150/system-design/machine-learning/backend/cloud
+prtdv@github:~$ cd learning
+prtdv@github:~/learning$ ls
+neetcode-150/
+system-design/
+backend/
+cloud/
+machine-learning/
 
 prtdv@github:~$ _
 ```
