@@ -26,16 +26,3 @@ CURRENTLY
     > Building backend applications
     > Exploring Machine Learning
 ```
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtdv&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtdv&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prtdv&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prtdv&theme=transparent&hide_border=true"/>
-</p>
