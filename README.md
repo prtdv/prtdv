@@ -3,7 +3,7 @@ prtdv@github:~$ whoami
 Pratyush Dev
 
 prtdv@github:~$ uname -a
-Windows 11 x86_64
+Windows 11 x64
 
 prtdv@github:~$ cat education.md
 B.Tech Computer Science
