@@ -49,14 +49,6 @@ ACHIEVEMENTS
 
 ──────────────────────────────────────────────────────────────────────────────
 
-CONTACT
-
-    GitHub    :: github.com/prtdv
-    LinkedIn  :: linkedin.com/in/prtdv
-    Email     :: prtdv.one@gmail.com
-
-──────────────────────────────────────────────────────────────────────────────
-
 Last Login : $(date)
 Session    : Active
 
