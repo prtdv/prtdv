@@ -1,4 +1,6 @@
-```text
+<div align="center">
+
+<pre>
                                prtdv
 
 ──────────────────────────────────────────────────────────────────────────────
@@ -21,8 +23,10 @@ DevOps            :: Docker • GitHub Actions • Azure
 
 CURRENTLY
 
-    > Solving NeetCode 150
-    > Learning System Design
-    > Building backend applications
-    > Exploring Machine Learning
-```
+    &gt; Solving NeetCode 150
+    &gt; Learning System Design
+    &gt; Building backend applications
+    &gt; Exploring Machine Learning
+</pre>
+
+</div>
