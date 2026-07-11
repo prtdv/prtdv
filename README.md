@@ -12,10 +12,10 @@ CGPA              :: 8.11
 
 Languages         :: Python • Java • C++ • JavaScript • Go • SQL
 
-Backend           :: Django REST • FastAPI • Express.js
+Backend           :: FastAPI • Django REST • Express.js
 Machine Learning  :: LightGBM • scikit-learn • Pandas • NumPy
 Database          :: PostgreSQL
-DevOps            :: Docker • GitHub Actions • Docker
+DevOps            :: Docker • GitHub Actions • Azure
 
 ──────────────────────────────────────────────────────────────────────────────
 
@@ -25,32 +25,13 @@ CURRENTLY
     > Learning System Design
     > Building backend applications
     > Exploring Machine Learning
-
-──────────────────────────────────────────────────────────────────────────────
-
-PROJECTS
-
-    [1] CS2 Auto-Spectate Engine
-        └─ ML-powered esports observer
-
-    [2] VoiceTally
-        └─ AI query engine for TallyPrime
-
-    [3] Sudharshan Chakra
-        └─ Tourist safety platform
-
-──────────────────────────────────────────────────────────────────────────────
-
-ACHIEVEMENTS
-
-    > 1st Place — SoCSE CACC Coders' Arena
-    > Smart India Hackathon 2025 — University Top 10
-    > MMCOE IEEE National Hackathon — Finalist
-
-──────────────────────────────────────────────────────────────────────────────
-
-Last Login : $(date)
-Session    : Active
-
-prtdv@github:~$ _
 ```
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prtdv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtdv&layout=compact&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prtdv&theme=transparent&hide_border=true"/>
+</p>
