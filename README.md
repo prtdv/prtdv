@@ -28,8 +28,12 @@ CURRENTLY
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prtdv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtdv&layout=compact&hide_border=true&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtdv&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtdv&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prtdv&theme=github_dark" />
 </p>
 
 <p align="center">
